@@ -1,0 +1,8 @@
+﻿  hooke.cpp
+d:\projects\freelance\hooke_jeeves_с++\hookejeevesapp\hookejeevesapp\hooke.cpp(74): warning C4101: 'j': unreferenced local variable
+  MyForm.cpp
+d:\projects\freelance\hooke_jeeves_с++\hookejeevesapp\hookejeevesapp\myform.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  hooke.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HookeJeevesApp.vcxproj -> D:\projects\Freelance\Hooke_Jeeves_С++\HookeJeevesApp\Debug\HookeJeevesApp.exe
